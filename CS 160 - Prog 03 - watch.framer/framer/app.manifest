@@ -1,0 +1,79 @@
+CACHE MANIFEST
+# 1415944368.591915
+CACHE:
+/_server/server.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/.temp.html
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/app.coffee
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/.bowerrc
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/app.manifest
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/backup.coffee
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/coffee-script.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/config.json
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/framer.generated.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/framer.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/framer.js.map
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/background.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/cursor.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/cursor@2x.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-120.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-152.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-76.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-arrow.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-arrow@2x.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-close.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-close@2x.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-framer.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-framer@2x.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-share.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/images/icon-share@2x.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/init.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/mirror.css
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/style.css
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/framer/version
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/images/framer-icon.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 1/framerps.log
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 1/images/accept button.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 1/images/body.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 1/images/decline button.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 1/images/lines.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 1/images/title text.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 1/layers.json
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 1/layers.json.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 2/framerps.log
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 2/images/body.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 2/images/lines.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 2/images/title text.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 2/layers.json
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 2/layers.json.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/framerps.log
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/images/body.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/images/coffee button.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/images/flower button.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/images/lines.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/images/park button.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/images/pizza button.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/images/title text.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/layers.json
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 3/layers.json.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 4/framerps.log
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 4/images/body.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 4/images/lines.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 4/images/title text.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 4/layers.json
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 4/layers.json.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 5/framerps.log
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 5/images/body.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 5/images/lines.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 5/images/title text.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 5/layers.json
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 5/layers.json.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 6/framerps.log
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 6/images/body.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 6/images/lines.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 6/images/title text.png
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 6/layers.json
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/imported/CS 160 - Prog 03 - Watch 6/layers.json.js
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/index.html
+..//Users/davidtran/Documents/CS 160 - PROG 03 - WATCH.FRAMER/offline.html
+SETTINGS:
+prefer-online

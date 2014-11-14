@@ -1,0 +1,277 @@
+[
+	{
+		"id": 28,
+		"name": "Group 1",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/Group 1.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 750,
+				"height": 1334
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1380370975"
+	},
+	{
+		"id": 69,
+		"name": "time next",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/time next.png",
+			"frame": {
+				"x": 34,
+				"y": 172,
+				"width": 685,
+				"height": 617
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1632509347"
+	},
+	{
+		"id": 26,
+		"name": "time",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/time.png",
+			"frame": {
+				"x": 34,
+				"y": 172,
+				"width": 685,
+				"height": 617
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "758819040"
+	},
+	{
+		"id": 24,
+		"name": "title text",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/title text.png",
+			"frame": {
+				"x": 111,
+				"y": 128,
+				"width": 527,
+				"height": 72
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1075951338"
+	},
+	{
+		"id": 54,
+		"name": "arrows",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/arrows.png",
+			"frame": {
+				"x": 310,
+				"y": 313,
+				"width": 283,
+				"height": 353
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "314341252"
+	},
+	{
+		"id": 90,
+		"name": "down arrow",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/down arrow.png",
+			"frame": {
+				"x": 132,
+				"y": 569,
+				"width": 112,
+				"height": 97
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1075980844"
+	},
+	{
+		"id": 70,
+		"name": "up arrow",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/up arrow.png",
+			"frame": {
+				"x": 132,
+				"y": 313,
+				"width": 170,
+				"height": 140
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1075980848"
+	},
+	{
+		"id": 65,
+		"name": "curious checked",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/curious checked.png",
+			"frame": {
+				"x": 243,
+				"y": 740,
+				"width": 263,
+				"height": 246
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "529714721"
+	},
+	{
+		"id": 60,
+		"name": "curious",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/curious.png",
+			"frame": {
+				"x": 243,
+				"y": 740,
+				"width": 263,
+				"height": 246
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1421672927"
+	},
+	{
+		"id": 42,
+		"name": "back button",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/back button.png",
+			"frame": {
+				"x": 54,
+				"y": 1097,
+				"width": 303,
+				"height": 100
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1430338235"
+	},
+	{
+		"id": 46,
+		"name": "next button",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/next button.png",
+			"frame": {
+				"x": 395,
+				"y": 1097,
+				"width": 303,
+				"height": 100
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1731020885"
+	}
+]

@@ -1,0 +1,128 @@
+window.__imported__ = window.__imported__ || {};
+window.__imported__["CS 160 - Prog 03 - Watch 1/layers.json.js"] = [
+	{
+		"id": 15,
+		"name": "lines",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 320,
+			"height": 400
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/lines.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 320,
+				"height": 400
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1473271791"
+	},
+	{
+		"id": 11,
+		"name": "title text",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 320,
+			"height": 400
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/title text.png",
+			"frame": {
+				"x": 78,
+				"y": 9,
+				"width": 198,
+				"height": 30
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "259698816"
+	},
+	{
+		"id": 13,
+		"name": "body",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 320,
+			"height": 400
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/body.png",
+			"frame": {
+				"x": 51,
+				"y": 87,
+				"width": 252,
+				"height": 180
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1297306183"
+	},
+	{
+		"id": 9,
+		"name": "accept button",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 320,
+			"height": 400
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/accept button.png",
+			"frame": {
+				"x": 42,
+				"y": 293,
+				"width": 126,
+				"height": 71
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1483579982"
+	},
+	{
+		"id": 20,
+		"name": "decline button",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 320,
+			"height": 400
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/decline button.png",
+			"frame": {
+				"x": 185,
+				"y": 293,
+				"width": 126,
+				"height": 71
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1582882693"
+	}
+]

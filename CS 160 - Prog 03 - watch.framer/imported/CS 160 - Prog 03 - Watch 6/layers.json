@@ -1,0 +1,77 @@
+[
+	{
+		"id": 15,
+		"name": "lines",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 320,
+			"height": 400
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/lines.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 320,
+				"height": 400
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "1055353782"
+	},
+	{
+		"id": 11,
+		"name": "title text",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 320,
+			"height": 400
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/title text.png",
+			"frame": {
+				"x": 78,
+				"y": 9,
+				"width": 200,
+				"height": 30
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "987998204"
+	},
+	{
+		"id": 13,
+		"name": "body",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 320,
+			"height": 400
+		},
+		"maskFrame": null,
+		"image": {
+			"path": "images/body.png",
+			"frame": {
+				"x": 0,
+				"y": 0,
+				"width": 320,
+				"height": 400
+			}
+		},
+		"imageType": "png",
+		"children": [
+			
+		],
+		"modification": "543939343"
+	}
+]
